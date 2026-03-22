@@ -2,15 +2,23 @@
 
 A new Flutter project.
 
-## Getting Started
+## Flutter Version Used
+- **Flutter**: 3.38.5
+- **Dart**: 3.10.4
 
-This project is a starting point for a Flutter application.
+## State Management Used
+- **Get** / **GetX** (`get: ^4.7.3`)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Steps to Run the Project
+1. Navigate to the project directory:
+   ```bash
+   cd alisoncart
+   ```
+2. Install the necessary dependencies:
+   ```bash
+   flutter pub get
+   ```
+3. Run the application on a connected device or an emulator:
+   ```bash
+   flutter run
+   ```
